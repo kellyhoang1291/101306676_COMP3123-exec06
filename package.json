@@ -18,7 +18,7 @@
     "mongoose",
     "notes"
   ],
-  "author": "Pritesh Patel",
+  "author": "Phuong Hoang",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
